@@ -1,0 +1,1 @@
+Um website desenvolvido para uma clínica odontológica de Curitiba, onde a ideia era deixar o site dinâmico e boa apresentação de layout e informações. Utilizado HTML, CSS e JavaScript para desenolver todo o site.
